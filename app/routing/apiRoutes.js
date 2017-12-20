@@ -14,6 +14,9 @@ var router = express.Router();
     res.json(friends);
   });
 
+  router.post('/api/friends', function(req, res){
+  	//enter best match funtionality here - loop through friends 
+  })
 
 
    // console.log(friends);
