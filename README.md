@@ -8,8 +8,8 @@ You can also find it on Heroku at
 
 Use localhost:3000
 
-![index](./screenshots/index.png)
-![survey](./screenshots/survey.png)
-![match](./screenshots/match.png)
+![index](/screenshots/index.png)
+![survey](/screenshots/survey.png)
+![match](/screenshots/match.png)
 
 
